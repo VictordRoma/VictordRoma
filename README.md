@@ -1,7 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header"/>
+
 <h2> Hello im Victor and this is my profile in GitHub 🦊 </h2>
 
 ![223e6792880429 5e569ff84ebef](https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif)
-
+ <div>
+ <img src="https://tenor.com/view/pixel-night-gif-13156297">
+ </dv>
+  
 <div align="center">
   <a href="https://github.com/VictordRoma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictordRoma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -16,7 +21,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <src="">
+  <src="https://discord.com/channels/818627455459393538/818640513267400724/1030179410642485321">
 </div>
 
 ##
