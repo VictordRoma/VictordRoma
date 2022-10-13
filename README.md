@@ -20,5 +20,5 @@
 </div>
 
 ##
-![Snake animation](https://github.com/rafaballerini/VictordRoma/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VictordRoma/VictordRoma/blob/output/github-contribution-grid-snake.svg)
 ##
