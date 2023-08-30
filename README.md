@@ -12,15 +12,7 @@
 </div>
 
 ##
- 
-### My Contribution
-
-![Snake animation](https://github.com/VictordRoma/VictordRoma/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=VictordRoma&color=87CEFA&bg_color=0d1117&sl_color=E0FFFF&hide_border=true&area=true)
-##
-
- 
+  
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
