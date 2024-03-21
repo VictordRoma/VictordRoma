@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Rafael+Ferreira+de+Roma;I'm+16+years+old;I+from+São+Paulo,+SP;I+study+systems+development+at+Etec+Zona+Leste;Be+Welcome!+🦊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Roma;I'm+18;I+study+systems+development+at+Fatec+Zona+Leste;Be+Welcome!+🦊)](https://git.io/typing-svg)
 
 
 ![223e6792880429 5e569ff84ebef](https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif)
