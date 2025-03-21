@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Me+chamo+Victor;sou+desenvolvedor+Front-End+e+Designer+UI/UX;Atualmente+estou+estudando+desenvolvimento+de+sistemsa+na+Fatec+Zona+Leste;Bem+vindo!+🦊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Me+chamo+Victor;sou+desenvolvedor+Front-End+e+Designer+UI/UX;Atualmente+estou+estudando+desenvolvimento+de+sistemsa;Bem+vindo!+🦊)](https://git.io/typing-svg)
    
    
 <div align="center">  
