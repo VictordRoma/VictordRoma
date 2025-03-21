@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Roma;I'm+18;I+study+systems+development+at+Fatec+Zona+Leste;Be+Welcome!+🦊)](https://git.io/typing-svg)
-
-
-![223e6792880429 5e569ff84ebef](https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Me+chamo+Victor;sou+desenvolvedor+Front-End+e+Designer;Atualmente+estou+estudando+desenvolvimento+de+sistemsa+na+Fatec+Zona+Leste;Bem+vindo!+🦊)](https://git.io/typing-svg)
    
    
 <div align="center">  
@@ -9,7 +6,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordRoma&layout=compact&hide_border=true&title_color=E0FFFF&text_color=E0FFFF&bg_color=0d1117" />
 </div>
 
-##
   
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
